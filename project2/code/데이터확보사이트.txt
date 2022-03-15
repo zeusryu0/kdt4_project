@@ -1,0 +1,48 @@
+### 데이터제공사이트
+
+0. BC카드
+1. 공공데이터 포털 : https://www.data.go.kr
+2. 서울 열린 데이터 광장 : http://data.seoul.co.kr
+3. 네이버 데이터랩 : http://datalab.naver.com
+4. big kinds : hppt://www.bigkinds.or.kr
+5. sk telecom geovision 상권분석 : http://www.geovision.co.kr
+6. skt data hub : https://www.bigdatahub.co.kr
+7. 구글 트랜드 
+8. 경기 데이터 드림 : https://data.gg.go.kr/portal/mainPage.do
+9. 한국데이터 거래소
+
+--- 이하 : https://www.ui4u.go.kr/portal/contents.do?mId=0112060000
+8. 국가공간정보포털	공간정보(지도, 국토, 지적), 부동산(토지), 3D지도 정보 제공	바로가기
+9. 국가통계포털	인구, 경제, 지역 등 다양한 국가 통계 정보 제공	바로가기
+10. 통계정보공유서비스	바로가기
+11. 상권정보 (소상공시장진흥공단)	창업을 위한 지역특성, 경제현황, 임대시세, 매출통계 등 상권분석 정보 제공	바로가기
+12. 식품의약품안전처 데이터활용서비스	식품 회수, 판매중지, 검사부적합, 인허가 정보 제공	바로가기
+13. 기상자료 개방포털	기상, 해양, 황사, 레이더, 위성 관측 및 기후 통계분석 정보 제공	바로가기
+14. 보건의료빅데이터개방시스템	병원, 요양기관, 질병, 진료, 진료비, 의약품, 환자표본 정보 제공	바로가기
+15. 재정정보공개시스템	세입세출예산, 채권, 결산 등 재정통계, 보조금사업통계, 시각화자료 제공	바로가기
+16. 생필품가격정보	곡물, 정육, 가공품 등 생필품가격정보, 공공요금, 외식비 등
+17. 서비스가격정보 제공	바로가기
+18. 수산정보포털	어업인, 학생, 연구원, 어업관련종사자, 수산관련기업 등 정보 제공	바로가기
+19. 대기오염정보	지역별 실시간 대기정보, 대기질 예.경보, 측정자료 통계 정보 제공	바로가기
+20. 교통사고정보개방시스템	보행자무단횡단사고다발지역, 자전거사고다발지역, 교통사고 정보 등 제공	바로가기
+21. 국가법령정보공동활용	법령, 자치법규, 판례, 법령용어 정보 제공	바로가기
+22. 고속도로 공공데이터포털	고속도로 교통량, 통행속도, 통행료, 도로시설, 휴게소 현황 정보 제공	바로가기
+23. 경기버스정보 공유	경기 버스노선 정보, 유형별 버스 정보, 정류장 정보 제공	바로가기
+24. 빅데이터 센터 : https://kbig.kr/portal/
+
+#  네이버 파이낸스
+#  야후 파이낸스
+#  dart - 공시정보
+#  fnguide
+#  itooza
+#  http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd
+
+
+--------- 해외.....
+1. 캐글데이터셋 : https://www.kaggle.com/datasets
+2. UCI ml dataset : https://archive.ics.uci.edu/ml/index.php
+3. https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/
+4. https://www.dataquest.io/blog/free-datasets-for-projects/
+5. https://towardsdatascience.com/useful-sites-for-finding-datasets-for-data-analysis-tasks-1edb8f26c34d
+6. https://velog.io/@erikafoo/%EB%B9%85-%EB%8D%B0%EC%9D%B4%ED%84%B0-2019-%EB%85%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-70-%EA%B0%80%EC%A7%80-%EB%86%80%EB%9D%BC%EC%9A%B4-%EB%AC%B4%EB%A3%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%86%8C%EC%8A%A4
+
